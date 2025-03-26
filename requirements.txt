@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+sounddevice
+numpy
+pandas
+openpyxl
+smtplib
+email
+speechrecognition
+wave
